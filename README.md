@@ -23,7 +23,8 @@
 #### Using Euclidean distance, we are able to have the distances between all songs and recommend Beatles songs for each Terno track.
 
 
-
+![alt text](https://github.com/pedrodgn/spotify_beatles_terno/blob/main/atras_alem_df.png?raw=true)
+![alt text](https://github.com/pedrodgn/spotify_beatles_terno/blob/main/melhor_do_que_parece_df.png?raw=true)
 
 
 
